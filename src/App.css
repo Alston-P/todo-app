@@ -1,0 +1,33 @@
+
+h1#head {
+    text-align: center;
+    color: blue;
+}
+/* input#ip {
+    margin-left: 50px;
+} */
+button {
+    border: none;
+    outline: none;
+    
+}
+div.p-2 {
+    border: 1px solid black;
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: center;
+    font-size: x-large;
+    color: silver;
+    background-color: rgb(65, 105, 225)
+    
+}
+.mb-3 {
+    padding-right: 200px;
+    padding-left: 200px;
+}
+#icon{
+   float: right;
+}
+#list {
+    float: left;
+}
